@@ -58,3 +58,5 @@ AÑO DE NACIMIENTO 1994 = BINARIO X
 
 
 
+
+
