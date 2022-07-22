@@ -11,5 +11,10 @@ existen varios lenguajes e interpretes en la programacion para que las maquinas 
 los compiladores son Los lenguajes se convierten directamente en código máquina que el procesador puede ejecutar. y los interpretres ejecutan un programa línea por línea y ejecutan cada comando
 
 
-Pseudocode currency converter
+Pseudocode currency converter.
+Descripcion: es una forma de describir una serie de pasos (un algoritmo) que se seguirán para resolver un problema, sin necesidad de desarrollarlo utilizando un tipo de lenguaje de programación
+
+Ejemplo: 
+
+
 
