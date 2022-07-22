@@ -46,6 +46,9 @@ AÑO DE NACIMIENTO 1994 = BINARIO X
 
 1111001010=1994
 
+assembly 
+para el color en git
+
 
 
 
