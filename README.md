@@ -15,6 +15,9 @@ Pseudocode currency converter.
 Descripcion: es una forma de describir una serie de pasos (un algoritmo) que se seguirán para resolver un problema, sin necesidad de desarrollarlo utilizando un tipo de lenguaje de programación
 
 Ejemplo: 
-
+1. Star
+2. suma n+n 
+3. prin suma 
+4. end 
 
 
