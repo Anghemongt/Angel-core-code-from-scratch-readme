@@ -16,11 +16,13 @@ Descripcion: es una forma de describir una serie de pasos (un algoritmo) que se 
 
 Ejemplo: 
 1. start
-2. num1<---GET
-3. num2<---GET
+2. num1<---GET (obtener) 
+3. num2<---GET (obtener)
 4. result<---num1+num2
 5. print result
 6. end
+
+
 
 
 
