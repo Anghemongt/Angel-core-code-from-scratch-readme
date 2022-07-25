@@ -98,15 +98,14 @@ EJERCICIO 2 MISP
 
 
 Crear un programa que muestre su nombre
-
  .data
 	      Mi_Nombre: .asciiz "\nAngel Chacach\n"
   .text
 	      main:
+	      #impresion de nombre
               li $v0, 4
               la $a0, Mi_Nombre
               syscall
-              
 
 
 
