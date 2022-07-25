@@ -1,8 +1,8 @@
 # readme
 Angel-core-code-from-scratch-readme
 
-
-[SEMANA] (semana1)
+## otro titulo
+[SEMANA] (https://github.com/Anghemongt/Angel-core-code-from-scratch-readme/blob/main/SEMANA%201)
 
 
 ##MARTES
