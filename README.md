@@ -57,7 +57,43 @@ EJERCICIO 2 MISP
 
 1 Crear un programa que agregue dos números dados proporcionados por el usuario
 
+  .data
+	      Bienvenido:.asciiz "\nBienvenido\n"
+	      numero1: .asciiz "\nIngrese el primer numero: "
+	      numero2: .asciiz "\nIngrese el segundo numero: "
 
+  .text
+	      main:
+	      #welcome message
+	      li $v0, 4
+	      la $a0, Bienvenido
+	      
+	      #Ingrese el primer Numero
+              li $v0, 4
+              la $a0, numero1
+              syscall
+
+              li $v0, 5
+              syscall
+	      
+	      #Guardando captura en la maquina
+              move $t0, $v0
+
+		#Ingrese Segundo Numero
+              li $v0, 4
+              la $a0, numero2
+              syscall
+
+              li $v0, 5
+              syscall
+
+	     #Guardand Captura del segundo Numero
+              move $t1, $v0
+
+              li $v0, 1
+              move $a0, $t0
+              syscall
+              
 
 
 
