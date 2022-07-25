@@ -53,6 +53,17 @@ assembly
 para el color en git
 
 
+EJERCICIO 2 MISP 
+
+1 Crear un programa que agregue dos números dados proporcionados por el usuario
+
+
+
+
+
+Crear un programa que muestre su nombre
+
+
 
 
 
