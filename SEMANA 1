@@ -107,3 +107,12 @@ Crear un programa que muestre su nombre
               li $v0, 4
               la $a0, Mi_Nombre
               syscall
+	      
+##JUEVES
+
+*/ EJERCICIO 01 
+utilizar un control de flujo iterativo para poder imprimir todos los números pares en el rango de números de 0 a 100.
+
+
+
+
