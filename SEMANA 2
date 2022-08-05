@@ -27,6 +27,10 @@ function multiply(a, b){
 }
 console.log (multiply)
 
+return
+L'instruction return met fin à l'exécution d'une fonction et définit une valeur à renvoyer à la fonction appelante.
+
+
 
 
 
