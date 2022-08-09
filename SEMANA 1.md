@@ -96,7 +96,6 @@ EJERCICIO 2 MISP
 
               li $v0, 5
            
-```assembly
 
 	     #Guardand Captura del segundo Numero
               move $t1, $v0
