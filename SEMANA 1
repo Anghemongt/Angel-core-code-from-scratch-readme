@@ -119,4 +119,13 @@ utilizar un control de flujo iterativo para poder imprimir todos los números pa
 
 
 
+  .data
+        message: .asciiz "\nHello, World!\n"
+  .text
+        main:
+              li $v0, 4
+              la $a0, message
+              syscall
+
+
 
