@@ -128,19 +128,22 @@ Crear un programa que muestre su nombre
 */ EJERCICIO 01 
 utilizar un control de flujo iterativo para poder imprimir todos los números pares en el rango de números de 0 a 100.
 
-```
-// For es una estructura de control
-/*
+
+
+/* For es una estructura de control
+
 Let para declarariar la variable i con un valor de 0
 i++ es un incremento mas 1
+    //== comparar
+    //=Asignar
 */
+
+```
 for (let i = 0; i <= 100; i++) {
 //console.log(i);
   if (i % 2 ==0){
-    //== comparar
-    //=Asignar
   console.log(i);
   } 
-    }
+}
 ```
 
