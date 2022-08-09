@@ -146,4 +146,21 @@ for (let i = 0; i <= 100; i++) {
   } 
 }
 ```
+```Javascript
+// For es una estructura de control
+/*
+Let para declarariar la variable i con un valor de 0
+i++ es un incremento mas 1
+para negar = ! 
+if (!(i % 2 ==0)){
+*/
+for (let i = 0; i <= 100; i++) {
+//console.log(i);
+  if (i % 2 ==0){
+    //== comparar
+    //=Asignar
+  console.log(i);
+  } 
+    }
+ ```
 
