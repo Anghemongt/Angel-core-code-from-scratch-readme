@@ -139,13 +139,15 @@ utilizar un control de flujo iterativo para poder imprimir todos los números pa
     
 
 ```Javascript
+/*
+para imprimir 0 a 100
+*/
+
 for (let i = 0; i <= 100; i++) {
-//console.log(i);
-  if (i % 2 ==0){
-  console.log(i);
-  } 
+console.log(i);
 }
 ```
+
 ```Javascript
 // For es una estructura de control
 /*
