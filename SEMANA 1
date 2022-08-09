@@ -58,6 +58,10 @@ EJERCICIO 2 MISP
 
 1 Crear un programa que agregue dos números dados proporcionados por el usuario
 
+## Examples
+
+### User Input
+
 ```assembly
 
   .data
@@ -88,7 +92,8 @@ EJERCICIO 2 MISP
               syscall
 
               li $v0, 5
-              syscall
+           
+```assembly
 
 	     #Guardand Captura del segundo Numero
               move $t1, $v0
