@@ -134,7 +134,9 @@ utilizar un control de flujo iterativo para poder imprimir todos los números pa
 //Let para declarariar la variable i con un valor de 0
 //i++ es un incremento mas 1
     //== comparar
+      
     //=Asignar
+    
 
 ```Javascript
 for (let i = 0; i <= 100; i++) {
