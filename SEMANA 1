@@ -58,6 +58,8 @@ EJERCICIO 2 MISP
 
 1 Crear un programa que agregue dos números dados proporcionados por el usuario
 
+```
+
   .data
 	      Bienvenido:.asciiz "\nBienvenido\n"
 	      numero1: .asciiz "\nIngrese el primer numero: "
@@ -94,6 +96,8 @@ EJERCICIO 2 MISP
               li $v0, 1
               move $a0, $t0
               syscall
+	     
+```
               
 
 
