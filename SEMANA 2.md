@@ -1,4 +1,4 @@
-<h1 align="center">Week No.2 challenges</h1>
+<h1 align="center">SEMANA 2</h1>
 
 <h2>Week Goals</h2>
 <h2>LUNES</h2>
