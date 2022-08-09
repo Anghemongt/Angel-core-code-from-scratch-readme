@@ -22,12 +22,15 @@ function multiply(a, b){
 
 SOLUTION 
 
+``Javascript
 function multiply(a, b){
  return a * b
 }
 console.log (multiply(2,2))
+```
 
-return
+
+##return
 L'instruction return met fin à l'exécution d'une fonction et définit une valeur à renvoyer à la fonction appelante.
 
 
