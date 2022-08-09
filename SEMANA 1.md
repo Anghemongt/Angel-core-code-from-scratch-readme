@@ -104,6 +104,7 @@ EJERCICIO 2 MISP
               li $v0, 1
               move $a0, $t0
               syscall
+```
 	     
 
               
@@ -111,6 +112,8 @@ EJERCICIO 2 MISP
 
 
 Crear un programa que muestre su nombre
+
+```
  .data
 	      Mi_Nombre: .asciiz "\nAngel Chacach\n"
   .text
@@ -119,7 +122,7 @@ Crear un programa que muestre su nombre
               li $v0, 4
               la $a0, Mi_Nombre
               syscall
-	      
+```
 ##JUEVES
 
 */ EJERCICIO 01 
