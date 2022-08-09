@@ -58,7 +58,7 @@ EJERCICIO 2 MISP
 
 1 Crear un programa que agregue dos números dados proporcionados por el usuario
 
-```
+assembly 
 
   .data
 	      Bienvenido:.asciiz "\nBienvenido\n"
@@ -97,7 +97,7 @@ EJERCICIO 2 MISP
               move $a0, $t0
               syscall
 	     
-```
+
               
 
 
