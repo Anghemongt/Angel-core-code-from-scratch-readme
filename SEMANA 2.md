@@ -56,8 +56,13 @@ function uniTotal (string) {
     }
 ```
 
+EJERCICIO CODEWARS
+Ejercicio Char From ASCII Value
 
-
-
-
+```javascript
+function getChar(c){
+    var charFromCode = String.fromCharCode(c);
+    return charFromCode;
+}
+```
 
