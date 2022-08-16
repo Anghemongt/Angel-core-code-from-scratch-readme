@@ -40,6 +40,22 @@ L'instruction return met fin à l'exécution d'une fonction et définit une vale
 
 
 
+MIERCOLES 
+Ejercicio CodeWars
+
+
+
+solucion 
+```javascript
+function uniTotal (string) {
+    var result = 0 ; 
+    for(let i=0; i<string.length ; i++){
+      result += string.charCodeAt(i);
+    }
+      return result;
+    }
+```
+
 
 
 
