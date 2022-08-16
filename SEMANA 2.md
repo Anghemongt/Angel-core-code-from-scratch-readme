@@ -40,7 +40,7 @@ L'instruction return met fin à l'exécution d'une fonction et définit une vale
 
 
 
-MIERCOLES 
+<h3>MIERCOLES</h3> 
 Ejercicio CodeWars
 
 
